@@ -1,6 +1,11 @@
 # SOLID_Principles_LAB
 
 Improve the following codes to implement SOLID principles in OOP.
+ Single Responsibility 
+ Open/Closed 
+ Liskov Substitution 
+ Interface Segregation 
+ Dependency Inversion
 
 Class Diagram https://lucid.app/lucidchart/639f3df7-f500-442d-a836-749c27a03d82/edit?viewport_loc=-1477%2C773%2C1819%2C1541%2C0_0&invitationId=inv_3a161741-733f-4f37-ad61-e6040ba0d2b2
 
