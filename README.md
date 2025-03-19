@@ -1,6 +1,6 @@
 # SOLID_Principles_LAB
 
-Improve the following codes to implement SOLID principles in OOP.
+##Improve the following codes to implement SOLID principles in OOP.
  Single Responsibility 
  Open/Closed 
  Liskov Substitution 
